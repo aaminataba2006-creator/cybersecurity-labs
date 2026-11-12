@@ -1,5 +1,7 @@
 # Laboratoires de cybersécurité et réseaux
 
+[English version](README.en.md)
+
 **Aminata Ba** · Licenciée en Ingénierie des Réseaux Informatiques et Télécommunications (IPTMA, Bamako, 2026)
 Ancienne stagiaire en cybersécurité à l'AGETIC (Mali).
 

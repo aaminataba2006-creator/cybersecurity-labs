@@ -1,5 +1,7 @@
 # Simulation d'attaque par force brute sur Windows
 
+[English version](README.en.md)
+
 **Période :** 2024 – 2025 · **Outils :** Kali Linux, outils de tests d'intrusion · **Thèmes :** authentification, gestion des mots de passe
 
 > **Cadre :** ce projet a été réalisé uniquement dans un laboratoire virtualisé et isolé, sur des machines qui m'appartiennent. Aucun système réel n'a été visé. Ce dépôt ne contient ni liste de mots de passe, ni identifiants.

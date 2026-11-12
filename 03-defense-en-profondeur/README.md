@@ -1,5 +1,7 @@
 # Sécurité multicouche appliquée à une entreprise de logistique et de transport
 
+[English version](README.en.md)
+
 **Mémoire de licence (IPTMA, option Réseaux et Télécommunications) · 2025 – 2026 · Soutenu avec la note de 16,5/20**
 **Travail d'équipe** réalisé avec trois autres étudiantes, sous la direction d'un encadrant de l'IPTMA.
 

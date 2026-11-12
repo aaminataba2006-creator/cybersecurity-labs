@@ -1,5 +1,7 @@
 # Déploiement de pare-feu open source et durcissement réseau
 
+[English version](README.en.md)
+
 **Période :** 2024 – 2025 · **Outils :** pfSense, IPFire · **Thèmes :** segmentation réseau, filtrage de paquets
 
 ## Objectif
